@@ -1,4 +1,4 @@
-# Finpro-IOT-Group-6 
+# ChickCare: An IoT-Based Intelligent Chick Incubator Monitoring and Control System 
 
 ## Introduction
 Tingkat kematian anak ayam sangat tinggi pada dua minggu pertama setelah menetas akibat ketidakstabilan suhu dan kelembaban. Metode manual yang ada saat ini rentan terhadap human error, fluktuasi suhu ekstrem, dan kurangnya manajemen siklus cahaya (siang/malam) yang penting untuk ritme sirkadian ayam.
