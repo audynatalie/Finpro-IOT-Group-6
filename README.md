@@ -13,6 +13,8 @@ Menginteintegrasikan dengan Node-RED dengan terhubung dari data sensor ke Gemini
 
 ## Implementation
 ## Testing and Evaluation
+
+- Wokwi: https://wokwi.com/projects/449672325379650561
 ## Conclusion
 ## References
 - [1] Nutrena, “Heat Lamps For Chicks,” Nutrena Animal Feeds, Jan. 18, 2024. https://nutrenaworld.com/heat-lamps-for-chicks/ (accessed Dec. 02, 2025). 
