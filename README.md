@@ -1,4 +1,6 @@
 # ChickCare: An IoT-Based Intelligent Chick Incubator Monitoring and Control System 
+[PPT Canva](https://www.canva.com/design/DAG61zygQrM/2T7orTyy49v0uax61qPRwg/view?utm_content=DAG61zygQrM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6b4f7057a5)
+[ChickCare Dashboard](https://chickcare.graycliff-7af4f541.eastus2.azurecontainerapps.io/dashboard/status)
 
 ## Introduction
 Tingkat kematian anak ayam sangat tinggi pada dua minggu pertama setelah menetas akibat ketidakstabilan suhu dan kelembaban. Metode manual yang ada saat ini rentan terhadap human error, fluktuasi suhu ekstrem, dan kurangnya manajemen siklus cahaya yang penting untuk ritme sirkadian ayam.
