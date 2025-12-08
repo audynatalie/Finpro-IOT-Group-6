@@ -12,6 +12,8 @@ Oleh karena itu, sistem ChickCare dikembangkan untuk menciptakan lingkungan inku
 Menginteintegrasikan dengan Node-RED dengan terhubung dari data sensor ke Gemini AI. Fitur ini menganalisis kondisi suhu dan kelembaban dan rekomendasi secara langsung kepada peternak.
 
 ## Implementation
+Proyek ini menggunakan komponen-komponen DHT11 sebagai sensor untuk membaca kondisi suhu dan kelembaban. 
+
 ## Testing and Evaluation
 
 - Wokwi: https://wokwi.com/projects/449672325379650561
