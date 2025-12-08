@@ -7,7 +7,7 @@ Oleh karena itu, sistem ChickCare dikembangkan untuk menciptakan lingkungan inku
 
 ### Tujuan Proyek ChickCare antara lain:
 - Menciptakan sistem yang secara otomatis menyesuaikan target suhu ideal sesuai tahapap pertumbuhan dalam 2 minggu pertama dan mempertahankannya menggunakan PWM pada Lampu Brooder untuk keakuratan yang maksimal.
-- Mengimplementasikan logika kontrol yang mengatur level kelembaban melalui Dehumidifier Spray dan menggabungkan penjadwalan terang dan gelap yang terorganisir (Jadwal Cahaya) sesuai mode DAY/NIGHT.
+- Mengimplementasikan logika kontrol yang mengatur level kelembaban melalui Dehumidifier Spray dan menggabungkan penjadwalan terang dan gelap yang terorganisir.
 - Menyediakan indikator visual (LED) dan monitor data (Serial Output) untuk melaporkan status sistem, nilai PWM dinamis, dan memberikan alert saat terjadi kondisi kritis.
 Menginteintegrasikan dengan Node-RED dengan terhubung dari data sensor ke Gemini AI. Fitur ini menganalisis kondisi suhu dan kelembaban dan rekomendasi secara langsung kepada peternak.
 
